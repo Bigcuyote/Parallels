@@ -1,0 +1,32 @@
+#Game Mechanics#
+
+Main Mechanics:
+
+--- Dimensions---
+Everything in the game is based in the dimension.
+---------------------------------------------------
+/specs/
+In the game you have diferent dimension to interact with. This meaning you have multiple "worlds in the game". ATM I have stated 3 worlds:
+---------------------------------------------------
+World 1: Main world: This is were the story takes place.
+World 2: A parallel dimension of the world one. 
+Limbo: The "Death zone", and the "Void" world.
+---------------------------------------------------
+World 1 is directly conected to World 2, so everything that happens in W1 will happend in an oppsite way in W2. This also uses the Limbo. It's like a cycle. World 1 affects World 2, World 2 afects the Limbo and the Limbo afects World 1.
+Visual: http://imgur.com/a/lwMdz
+---------------------------------------------------
+
+---------------------------------------------------
+---Creator---
+This "power" allows the player create something from nothing.
+---------------------------------------------------
+/specs/
+When you enable the creator power, you can basically create* an object from the object list 1m away from you.
+---------------------------------------------------
+
+
+----Update 1----
+
+Stay tuned for further updates
+
+Contact: bigxkuoficial@gmail.com
