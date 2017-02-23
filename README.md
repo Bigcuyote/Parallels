@@ -1,8 +1,8 @@
 # Parallels
 
-Hi and hello, you might already have guessed I'm new to GH (and that I am not native english speaker, sorry for the mistakes)
+Parallels is a game that I am developing with the help of some people. The game is about creating and destroying the world. That's it.+
+Now, jokes apart, yeah, basically that's the main idea, create and destroy things at will. The game has an interesting story which is still in development, but we already have the bases of the game.
 
-Anyways, I am developing an new game called Parallels, but it's quite complex. Currently I'm not going to talk to often about it because I don't even have a base. So... yeah. But I can tell that once I have some more documentation about the game, I'm am going to talk about it a lil' more so that people get in touch with the project.
 
 -----That's if 4 now-----
 
